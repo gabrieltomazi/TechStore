@@ -1,9 +1,7 @@
 # 🚀 Tech Store
 ## Visão Geral
-Este projeto é um carrossel (slider) de produtos full-screen desenvolvido para simular a vitrine digital de uma loja de tecnologia (Tech Store). 
-O objetivo é proporcionar uma experiência de usuário moderna e envolvente, combinando lógica de controle de slides em JavaScript e animações CSS3 complexas e sequenciais.
-
-O projeto é uma forte demonstração de proficiência em Front-end, com foco especial na qualidade do design e na performance das transições.
+Este projeto é um carrossel de produtos desenvolvido para simular a vitrine digital de uma loja de tecnologia (Tech Store). 
+O objetivo é proporcionar uma experiência de usuário moderna e envolvente, combinando lógica de controle de slides em JavaScript e animações sequenciais.
 
 ✨ Tecnologias Utilizadas
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
