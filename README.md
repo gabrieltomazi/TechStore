@@ -37,7 +37,7 @@ Siga estas etapas simples para rodar o projeto em sua máquina:<br>
 Clone o Repositório: <br>
 ```git clone https://github.com/gabrieltomazi/NOME-DO-REPOSITORIO.git```
 
-(Lembrete: Substitua NOME-DO-REPOSITORIO pelo nome real do seu repositório no GitHub, ex: tech-store-slider) <br>
+(Lembrete: Substitua NOME-DO-REPOSITORIO pelo nome real do seu repositório no GitHub, ex: TechStore) <br>
 Navegue até a Pasta: <br>
 ```cd NOME-DO-REPOSITORIO```
 
