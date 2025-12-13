@@ -33,20 +33,19 @@ O marcador visual (.dot.active) para indicar a posição atual.
 
 
 ## 🚀 Como Executar o Projeto Localmente
-Siga estas etapas simples para rodar o projeto em sua máquina:
+Siga estas etapas simples para rodar o projeto em sua máquina:<br>
 Clone o Repositório:
 ```git clone https://github.com/gabrieltomazi/NOME-DO-REPOSITORIO.git```
 
-(Lembrete: Substitua NOME-DO-REPOSITORIO pelo nome real do seu repositório no GitHub, ex: tech-store-slider)
+(Lembrete: Substitua NOME-DO-REPOSITORIO pelo nome real do seu repositório no GitHub, ex: tech-store-slider) <br>
 Navegue até a Pasta:
 ```cd NOME-DO-REPOSITORIO```
 
-Abra o index.html: Basta clicar duas vezes no arquivo index.html no seu navegador (Chrome, Firefox, etc.). Não é necessário servidor web.
-🔗 Demonstração e LinksT
-Demo Online[INSERIR LINK DO DEPLOY AQUI (Vercel, Netlify ou GitHub Pages)]
-Repositório[INSERIR LINK DO GITHUB AQUI]
-
+<b>Abra o index.html:</b> Basta clicar duas vezes no arquivo index.html no seu navegador (Chrome, Firefox, etc.). Não é necessário servidor web.<br>
+🔗 Links
+Demo Online <br>
+Repositório: https://github.com/gabrieltomazi/TechStore
 ## 🧑‍💻 Desenvolvedor
-Gabriel Fernandes Tomazi
-LinkedIn: https://www.linkedin.com/in/gabriel-tomazi/
+### Gabriel Fernandes Tomazi
+LinkedIn: https://www.linkedin.com/in/gabriel-tomazi/ <br>
 GitHub: https://github.com/gabrieltomazi
