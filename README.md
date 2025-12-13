@@ -34,11 +34,11 @@ O marcador visual (.dot.active) para indicar a posição atual.
 
 ## 🚀 Como Executar o Projeto Localmente
 Siga estas etapas simples para rodar o projeto em sua máquina:<br>
-Clone o Repositório:
+Clone o Repositório: <br>
 ```git clone https://github.com/gabrieltomazi/NOME-DO-REPOSITORIO.git```
 
 (Lembrete: Substitua NOME-DO-REPOSITORIO pelo nome real do seu repositório no GitHub, ex: tech-store-slider) <br>
-Navegue até a Pasta:
+Navegue até a Pasta: <br>
 ```cd NOME-DO-REPOSITORIO```
 
 <b>Abra o index.html:</b> Basta clicar duas vezes no arquivo index.html no seu navegador (Chrome, Firefox, etc.). Não é necessário servidor web.<br>
