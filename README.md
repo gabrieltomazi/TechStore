@@ -20,7 +20,7 @@ O número do slide (.numbers) com formatação (padStart(2, '0')).
 
 O marcador visual (.dot.active) para indicar a posição atual.
 
-### Design e Animação Profissionais
+### Design e Animação
 <b>Transição Sequencial:</b> Utilização de transition-delay no CSS para garantir que o texto de conteúdo (.product-tag, .product-name, .description) e a imagem entrem na tela em momentos ligeiramente diferentes, criando um efeito visual polido e dinâmico.
 
 <b>Design Futurista:</b> Aplicação de gradientes e efeitos neon (#00f7ff) no logo, botões e indicadores.
