@@ -1,4 +1,7 @@
 # 🚀 Tech Store
+
+https://github.com/user-attachments/assets/100e9e6c-2d18-4328-bb1d-81aac7f65982
+
 ## Visão Geral
 Este projeto é um carrossel de produtos desenvolvido para simular a vitrine digital de uma loja de tecnologia (Tech Store). 
 O objetivo é proporcionar uma experiência de usuário moderna e envolvente, combinando lógica de controle de slides em JavaScript e animações sequenciais.
@@ -34,16 +37,14 @@ O marcador visual (.dot.active) para indicar a posição atual.
 ## 🚀 Como Executar o Projeto Localmente
 Siga estas etapas simples para rodar o projeto em sua máquina:<br>
 Clone o Repositório: <br>
-```git clone https://github.com/gabrieltomazi/NOME-DO-REPOSITORIO.git```
+```git clone https://github.com/gabrieltomazi/TechStore.git```
 
-(Lembrete: Substitua NOME-DO-REPOSITORIO pelo nome real do seu repositório no GitHub, ex: TechStore) <br>
 Navegue até a Pasta: <br>
-```cd NOME-DO-REPOSITORIO```
+```cd TechStore```
 
 <b>Abra o index.html:</b> Basta clicar duas vezes no arquivo index.html no seu navegador (Chrome, Firefox, etc.). Não é necessário servidor web.<br>
 🔗 Links <br>
 <a href="https://gabrieltomazi.github.io/TechStore/">Demo Online</a> <br>
-## 🧑‍💻 Desenvolvedor
-### Gabriel Fernandes Tomazi
-LinkedIn: https://www.linkedin.com/in/gabriel-tomazi/ <br>
-GitHub: https://github.com/gabrieltomazi
+## 🧑‍💻 Desenvolvedor - Gabriel Fernandes Tomazi 
+<a href="https://www.linkedin.com/in/gabriel-tomazi/"><img width="50px" alt="image" src="https://github.com/user-attachments/assets/c7122cef-3681-49c2-9923-0a7eb9d1e71c" />
+
