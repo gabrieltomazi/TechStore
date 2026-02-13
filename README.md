@@ -40,9 +40,8 @@ Navegue até a Pasta: <br>
 ```cd NOME-DO-REPOSITORIO```
 
 <b>Abra o index.html:</b> Basta clicar duas vezes no arquivo index.html no seu navegador (Chrome, Firefox, etc.). Não é necessário servidor web.<br>
-🔗 Links
-Demo Online <br>
-Repositório: https://github.com/gabrieltomazi/TechStore
+🔗 Links <br>
+<a href="https://gabrieltomazi.github.io/TechStore/">Demo Online</a> <br>
 ## 🧑‍💻 Desenvolvedor
 ### Gabriel Fernandes Tomazi
 LinkedIn: https://www.linkedin.com/in/gabriel-tomazi/ <br>
