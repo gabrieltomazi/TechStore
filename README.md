@@ -3,10 +3,11 @@
 Este projeto é um carrossel de produtos desenvolvido para simular a vitrine digital de uma loja de tecnologia (Tech Store). 
 O objetivo é proporcionar uma experiência de usuário moderna e envolvente, combinando lógica de controle de slides em JavaScript e animações sequenciais.
 
-✨ Tecnologias Utilizadas
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-- <img src="https://camo.githubusercontent.com/9bbd4c2b5f7cda139d91d34caa14392df56353ca55e19b58184610aa8b123854/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145">
+✨ Tecnologias Utilizadas <br>
+
+  <img width="40px" alt="html" src="https://github.com/user-attachments/assets/34d39b86-6f7a-4080-817f-3323874e3bbc" />
+  <img width="40px" alt="css" src="https://github.com/user-attachments/assets/5c840245-3d50-4bc7-948b-b7ead8ca775c" />
+  <img width="40px" alt="javascript" src="https://github.com/user-attachments/assets/63203281-69b3-4a73-86d4-8c28ff3e457a" />
 
 ## ⚙️ Funcionalidades e Implementação
 ### Lógica de Navegação e Controle
